@@ -6,11 +6,12 @@
 
 int main()
 {
+	// creditos by luizinho q me ajudou com essa poha 
 	char nome [30];
 	int numero;
-	
+	printf(" DIAS DA SEMANA :\n");
 	printf(" DOMINGO -> 1 \n");
-	printf("SEGUND-FEIRA -> 2 \n ");
+	printf(" SEGUND-FEIRA -> 2 \n ");
 	printf(" TERCA-FEIRA -> 3 \n ");
 	printf(" QUARTA-FEIRA -> 4 \n ");
 	printf(" QUINTA-FEIRA -> 5 \n ");
