@@ -10,8 +10,8 @@ int main()
 	char nome [30];
 	int numero;
 	printf(" DIAS DA SEMANA :\n");
-	printf(" DOMINGO -> 1 \n");
-	printf(" SEGUND-FEIRA -> 2 \n ");
+	printf("  DOMINGO -> 1 \n");
+	printf("  SEGUND-FEIRA -> 2 \n ");
 	printf(" TERCA-FEIRA -> 3 \n ");
 	printf(" QUARTA-FEIRA -> 4 \n ");
 	printf(" QUINTA-FEIRA -> 5 \n ");
@@ -19,7 +19,7 @@ int main()
 	printf(" SABADO -> 7 \n ");
 	
 	
-	printf("me diga seu  mome: \n ");
+	printf(" me diga seu  mome: \n ");
 	scanf("%s", &nome);
 
 	printf(" digite o o numero do dia da semana:\n ");
